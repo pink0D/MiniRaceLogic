@@ -25,7 +25,7 @@ This toy project builds some kind of electronic start and finish lines to be use
 
 ### Wiring diagram
 Same both for start and finish (the only difference is that LED matrix is connected to start, and LCD is connected to finish)
-![Wiring!]([/assets/images/san-juan-mountains.jpg](https://github.com/pink0D/MiniRaceLogic/blob/main/Wiring/MiniRaceLogic_Wiring_RFNano.png?raw=true) "Wiring")
+![Wiring!](https://github.com/pink0D/MiniRaceLogic/blob/main/Wiring/MiniRaceLogic_Wiring_RFNano.png?raw=true "Wiring")
 
 # Firmware
 
