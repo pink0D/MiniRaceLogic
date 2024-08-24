@@ -16,7 +16,7 @@ This toy project builds some kind of electronic start and finish lines to be use
 
 [![video2](https://img.youtube.com/vi/u52nJqy7JgE/0.jpg)](https://www.youtube.com/watch?v=u52nJqy7JgE)
 
-[Demo video 2 on YouTube]([https://www.youtube.com/watch?v=u52nJqy7JgE](https://www.youtube.com/watch?v=M21zNXTgTHc))
+[Demo video 2 on YouTube](https://www.youtube.com/watch?v=M21zNXTgTHc)
 
 [![video3](https://img.youtube.com/vi/M21zNXTgTHc/0.jpg)](https://www.youtube.com/watch?v=M21zNXTgTHc)
 
